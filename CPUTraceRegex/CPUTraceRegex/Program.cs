@@ -25,7 +25,7 @@ namespace CPUTraceRegex
 
         static void RegularStatements(string StringValue)
         {
-
+            //TODO
         }
     }
 }
