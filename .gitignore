@@ -3,3 +3,6 @@
 ################################################################################
 
 /CPUTraceRegex/CPUTraceRegex/bin/Debug
+/CPUTraceRegex/CPUTraceRegex/bin/Release
+/CPUTraceRegex/CPUTraceRegex/obj/Debug
+/CPUTraceRegex/CPUTraceRegex/obj/Release
