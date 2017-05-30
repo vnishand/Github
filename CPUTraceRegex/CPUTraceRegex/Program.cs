@@ -11,7 +11,7 @@ namespace CPUTraceRegex
         static List<byte[]> listArr = new List<byte[]>();
         static void Main(string[] args)
         {
-            int counter = 30;
+            int counter = 50;
             while (counter-- > 0)
             {
                 listArr.Add(new byte[80999990]);
