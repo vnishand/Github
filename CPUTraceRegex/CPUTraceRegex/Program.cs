@@ -29,6 +29,7 @@ namespace CPUTraceRegex
             //This is another test
             //This is two
             //This is three
+            //This is four
         }
     }
 }
