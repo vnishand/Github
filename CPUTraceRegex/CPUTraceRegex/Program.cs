@@ -19,7 +19,8 @@ namespace CPUTraceRegex
                 listArr.Add(new byte[80999990]);
                 System.Threading.Thread.Sleep(500);
             }
-            throw new Exception();
+
+            throw new Exception("custom exception");
         }
 
         static void RegularStatements(string StringValue)
