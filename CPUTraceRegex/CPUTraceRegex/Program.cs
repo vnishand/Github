@@ -13,6 +13,7 @@ namespace CPUTraceRegex
         static void Main(string[] args)
         {
             int counter = 50;
+            //Is this the right value?
             while (counter-- > 0)
             {
                 listArr.Add(new byte[80999990]);
