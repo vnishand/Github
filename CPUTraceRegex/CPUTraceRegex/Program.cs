@@ -9,6 +9,7 @@ namespace CPUTraceRegex
     class Program
     {
         static List<byte[]> listArr = new List<byte[]>();
+        //These are some of the changes, I would like to make
         static void Main(string[] args)
         {
             int counter = 50;
